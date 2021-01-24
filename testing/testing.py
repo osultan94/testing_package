@@ -2,7 +2,6 @@ class testing:
     def __init__(self):
         return
 
-    @staticmethod
-    def print_msg():
+    def print_msg(self):
         print("message from a python package")
         return
