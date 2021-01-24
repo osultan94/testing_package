@@ -1,4 +1,4 @@
-class testing:
+class Testing:
     def __init__(self):
         return
 
